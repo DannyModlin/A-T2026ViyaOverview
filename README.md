@@ -12,7 +12,6 @@
 ## Course Recommendations:
  
 #### Programming (writing code) in SAS Studio 
-Included in the training plan in case folks need our standard SAS/Studio programming training
 
       SAS® Programming 1: Essentials
 
