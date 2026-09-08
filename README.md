@@ -9,8 +9,7 @@
 2. Then to activate your connection to SAS Viya for Learners, proceed to https://www.sas.com/en_us/software/viya-for-learners.html and select the correct description of you. (Educator or Student) Activate the product following the directions on the screen and agree to the license agreement. Once complete, you will be redirected to the SAS Viya for Learners area. https://learn.sas.com/course/view.php?id=6825
 
 --------------------------------------------------------------
-## NC A&T – Training Plan
-### Course Recommendations:
+## Course Recommendations:
  
 #### Programming (writing code) in SAS Studio 
 Included in the training plan in case folks need our standard SAS/Studio programming training
