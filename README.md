@@ -19,55 +19,55 @@ Included in the training plan in case folks need our standard SAS/Studio program
       SAS® Programming 2: Data Manipulation Techniques
 
 #### SAS Studio in Viya
-•	Getting Started with SAS Studio on SAS Viya Tutorial
+   Getting Started with SAS Studio on SAS Viya Tutorial
 
-•	Building SAS® Studio Flows in SAS® Viya®
+   Building SAS® Studio Flows in SAS® Viya®
 
-•	Transitioning SAS® Enterprise Guide® Projects to SAS® Studio Flows 
+   Transitioning SAS® Enterprise Guide® Projects to SAS® Studio Flows 
 
-•	Accelerating SAS® Code on the SAS® Viya® Platform
+   Accelerating SAS® Code on the SAS® Viya® Platform
 
-Prerequisites include:
+      Prerequisites include:
 
-      SAS® Programming 1: Essentials 
+         SAS® Programming 1: Essentials 
 
-      SAS® Programming 2: Data Manipulation Techniques
+         SAS® Programming 2: Data Manipulation Techniques
 
 #### SAS Visual Analytics 
-•	SAS® Visual Analytics 1 for SAS® Viya®: Basics
+   SAS® Visual Analytics 1 for SAS® Viya®: Basics
 
-•	SAS® Visual Analytics 2 for SAS® Viya®: Advanced
+   SAS® Visual Analytics 2 for SAS® Viya®: Advanced
  
 ##### Certification:  
-•	SAS® Visual Business Analytics Specialist
+   SAS® Visual Business Analytics Specialist
 
       VA 1 and 2 courses prepare students for this certification
 
       Helpful resources found on certification page, including exam practice materials
 
 #### SAS Visual Statistics 
-•	SAS® Visual Statistics in SAS® Viya®: Interactive Model Building
+   SAS® Visual Statistics in SAS® Viya®: Interactive Model Building
 
-Prerequisites include:
+      Prerequisites include:
 
-      Statistics You Need to Know for Machine Learning
+         Statistics You Need to Know for Machine Learning
 
-      SAS® Visual Analytics 1 for SAS® Viya®: Basics
+         SAS® Visual Analytics 1 for SAS® Viya®: Basics
 
 ##### Certifications:
-•	SAS Certified Associate: Applied Statistics for Machine Learning
+   SAS Certified Associate: Applied Statistics for Machine Learning
 
       Statistics You Need to Know for Machine Learning  course prepares students for this certification
 
       Helpful resources found on certification page, including exam practice materials
 
-•	SAS® Certified Associate: Modeling Using SAS Visual Statistics
+   SAS® Certified Associate: Modeling Using SAS Visual Statistics
 
       VS in SAS Viya: Interactive Model Building course prepare students for this certification
 
       Helpful resources found on certification page, including exam practice materials
 
-•	SAS® Certified Specialist: Statistics for Machine Learning
+   SAS® Certified Specialist: Statistics for Machine Learning
 
       This new Specialist credential is automatically awarded when the two Associate credentials listed above are earned:
 
@@ -78,62 +78,62 @@ Prerequisites include:
       Candidates may decide to earn only one of the Associate credentials. There is no requirement to complete the full Specialist path.
 
 #### SAS Visual Data Mining and Machine Learning (VDMML) 
-•	Machine Learning Using SAS Viya
+   Machine Learning Using SAS Viya
 
-Prerequisite:
+      Prerequisite:
 
-      Statistics You Need to Know for Machine Learning
+         Statistics You Need to Know for Machine Learning
 
-•	Advanced Machine Learning Using SAS® Viya®
+   Advanced Machine Learning Using SAS® Viya®
 
-Prerequisite:
+      Prerequisite:
 
-      Machine Learning Using SAS Viya
+         Machine Learning Using SAS Viya
 
 ##### Certification:
-•	SAS Certified Specialist: Machine Learning Using SAS® Viya®
+   SAS Certified Specialist: Machine Learning Using SAS® Viya®
 
       Machine Learning Using SAS Viya course prepare students for this certification
 
       Helpful resources found on certification page, including exam practice materials
 
 #### SAS Visual Forecasting
-•	Large-Scale Forecasting Using SAS® Viya®: A Programming Approach - Programming focused
+   Large-Scale Forecasting Using SAS® Viya®: A Programming Approach - Programming focused
 
-•	Forecasting Using Model Studio in SAS® Viya® - Point and click functionality
+   Forecasting Using Model Studio in SAS® Viya® - Point and click functionality
 
 #### SAS Visual Text Analytics
-•	SAS® Visual Text Analytics in SAS® Viya®
+   SAS® Visual Text Analytics in SAS® Viya®
 
 #### SAS Intelligent Decisioning
-•	Essential Functions of SAS® Intelligent Decisioning
+   Essential Functions of SAS® Intelligent Decisioning
 
 #### SAS Data Preparation
-•	Self-Service Data Preparation in SAS® Viya®
+   Self-Service Data Preparation in SAS® Viya®
 
 #### SAS Model Manager (on SAS Viya)
-•	Managing Models in SAS® Viya®
+   Managing Models in SAS® Viya®
 
 #### SAS/QC (on SAS Viya)
-•	Statistical Process Control Using SAS/QC® Software
+   Statistical Process Control Using SAS/QC® Software
 
-Prerequisites include:
+      Prerequisites include:
 
-      SAS® Programming 1: Essentials
+         SAS® Programming 1: Essentials
 
-      Statistics 1: Introduction to ANOVA, Regression, and Logistic Regression
+         Statistics 1: Introduction to ANOVA, Regression, and Logistic Regression
  
 #### SAS Econometrics
-•	Forecasting Using SAS Software: A Programming Approach
+   Forecasting Using SAS Software: A Programming Approach
 
-Prerequisites include:
+      Prerequisites include:
 
-      SAS® Programming 1: Essentials 
+         SAS® Programming 1: Essentials 
 
-      Statistics 2: ANOVA and Regression 
+         Statistics 2: ANOVA and Regression 
 
-      Time Series Modeling Essentials
+         Time Series Modeling Essentials
 
-o	Knowledge of SAS Macro language programming is useful but not required
+   Knowledge of SAS Macro language programming is useful but not required
  
 #
